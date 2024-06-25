@@ -1,0 +1,2 @@
+# Encryptix
+Encryptix Intern tasks.
